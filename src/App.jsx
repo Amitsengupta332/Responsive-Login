@@ -152,7 +152,7 @@ cursor: pointer;
       <ParentDiv>
         {/* left side */}
         <InnerDiv1>
-          <Img src="../public/undraw_authentication_re_svpt 1.png" alt="" />
+          <Img src="https://i.ibb.co/Tvws9QX/undraw-authentication-re-svpt-1.png" alt="" />
         </InnerDiv1>
 
         {/* right side */}
